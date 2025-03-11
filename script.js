@@ -11,6 +11,6 @@ alphaSpan.forEach(span => {
         // Remove the class after animation completes (2s)
         setTimeout(() => {
             span.classList.remove("active");
-        }, 5000);
+        }, 7000);
     });
 });
